@@ -1,0 +1,30 @@
+{ "articles": [{
+  "author": "Veruca Salt",
+  "image": "https://www.what-dog.net/Images/faces2/scroll0014.jpg",
+  "alt": "dog",
+  "title": "Lorem Ipsum",
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here'.",
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum libero ut justo sodales semper. Nulla lectus magna, laoreet et tempus eget, euismod id urna. Proin in rutrum urna, id consectetur lacus. Aenean metus nibh, bibendum sit amet turpis ac, interdum malesuada nisl. Duis eleifend feugiat sagittis. Nam sagittis tellus justo, non sodales sem sagittis id. Fusce tincidunt leo vel nibh bibendum dictum. Etiam consequat nisi ut nunc gravida rutrum. Curabitur eu risus non tellus vestibulum ornare. Donec vehicula justo leo. Phasellus fermentum auctor commodo. Aliquam a tortor justo. Vestibulum imperdiet justo neque, nec elementum risus lobortis elementum."
+  }, {
+    "author": "Veruca Salt",
+    "image": "https://www.what-dog.net/Images/faces2/scroll0014.jpg",
+    "alt": "dog",
+    "title": "Lorem Ipsum",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here'.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum libero ut justo sodales semper. Nulla lectus magna, laoreet et tempus eget, euismod id urna. Proin in rutrum urna, id consectetur lacus. Aenean metus nibh, bibendum sit amet turpis ac, interdum malesuada nisl. Duis eleifend feugiat sagittis. Nam sagittis tellus justo, non sodales sem sagittis id. Fusce tincidunt leo vel nibh bibendum dictum. Etiam consequat nisi ut nunc gravida rutrum. Curabitur eu risus non tellus vestibulum ornare. Donec vehicula justo leo. Phasellus fermentum auctor commodo. Aliquam a tortor justo. Vestibulum imperdiet justo neque, nec elementum risus lobortis elementum."
+  }, {
+    "author": "Veruca Salt",
+    "image": "https://www.what-dog.net/Images/faces2/scroll0014.jpg",
+    "alt": "dog",
+    "title": "Lorem Ipsum",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here'.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum libero ut justo sodales semper. Nulla lectus magna, laoreet et tempus eget, euismod id urna. Proin in rutrum urna, id consectetur lacus. Aenean metus nibh, bibendum sit amet turpis ac, interdum malesuada nisl. Duis eleifend feugiat sagittis. Nam sagittis tellus justo, non sodales sem sagittis id. Fusce tincidunt leo vel nibh bibendum dictum. Etiam consequat nisi ut nunc gravida rutrum. Curabitur eu risus non tellus vestibulum ornare. Donec vehicula justo leo. Phasellus fermentum auctor commodo. Aliquam a tortor justo. Vestibulum imperdiet justo neque, nec elementum risus lobortis elementum."
+  }, {
+    "author": "Veruca Salt",
+    "image": "https://www.what-dog.net/Images/faces2/scroll0014.jpg",
+    "alt": "dog",
+    "title": "Lorem Ipsum",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here'.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum libero ut justo sodales semper. Nulla lectus magna, laoreet et tempus eget, euismod id urna. Proin in rutrum urna, id consectetur lacus. Aenean metus nibh, bibendum sit amet turpis ac, interdum malesuada nisl. Duis eleifend feugiat sagittis. Nam sagittis tellus justo, non sodales sem sagittis id. Fusce tincidunt leo vel nibh bibendum dictum. Etiam consequat nisi ut nunc gravida rutrum. Curabitur eu risus non tellus vestibulum ornare. Donec vehicula justo leo. Phasellus fermentum auctor commodo. Aliquam a tortor justo. Vestibulum imperdiet justo neque, nec elementum risus lobortis elementum."
+  }]
+}
