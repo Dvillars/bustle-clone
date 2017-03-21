@@ -1,0 +1,38 @@
+{{#if updateCurrentArticle}}
+<div>
+  <form>
+    <div class="form-group">
+      <label for="title">Article Title</label>
+      {{input class="form-control" value=title id="title"}}
+    </div>
+
+    <div class="form-group">
+      <label for="author">Article Author</label>
+      {{input class="form-control" value=author id="author"}}
+    </div>
+
+    <div class="form-group">
+      <label for="description">Article Description</label>
+      {{input class="form-control" value=description id="description"}}
+    </div>
+
+    <div class="form-group">
+      <label for="text">Article Text</label>
+      {{input class="form-control" value=text id="text"}}
+    </div>
+
+    <div class="form-group">
+      <label for="image">Article Image Url</label>
+      {{input class="form-control" value=image id="image"}}
+    </div>
+
+    <div class="form-group">
+      <label for="alt">Image Description</label>
+      {{input class="form-control" value=alt id="alt"}}
+    </div>
+    <button class="btn btn-primary" {{action 'updateArticle' model}}>Save Changes</button>
+  </form>
+</div>
+{{else}}
+  <button class="btn btn-info" {{action 'articleFormShow'}}>Update Article</button>
+{{/if}}
